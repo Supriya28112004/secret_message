@@ -1,0 +1,9 @@
+# Ignore all dependencies
+node_modules/
+
+# If secret-message-basic has its own node_modules, ignore that too:
+secret-message-basic/node_modules/
+
+# Ignore environment files
+.env
+
